@@ -1,0 +1,10 @@
+418722592
+
+337ejIQiqdvThfgocvVt
+337ervfmTNiBijxMtJnn
+svn wangyang wy.123
+
+hs:0245110789687604538681165
+
+
+--gamedir "E:\demo\testg3" --scenename "asset:testg3.scene" --sysdir "D:\GenesisEditor\DefaultAssets\System" --shddir "D:\GenesisEditor\DefaultAssets\System"
